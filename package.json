@@ -1,0 +1,29 @@
+{
+  "name": "scoutedge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ScoutEdge - Automated Scouting Report Generator for Valorant",
+  "scripts": {
+    "dev:web": "pnpm --filter web dev",
+    "dev:api": "cd apps/api && uv run fastapi dev main.py",
+    "build": "pnpm --filter web build",
+    "lint": "pnpm --filter web lint",
+    "test": "pnpm --filter core test"
+  },
+  "keywords": [
+    "esports",
+    "valorant",
+    "scouting",
+    "analytics",
+    "hackathon"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.0.0",
+    "pnpm": ">=9.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}

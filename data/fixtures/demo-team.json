@@ -1,0 +1,352 @@
+{
+    "team": {
+        "id": "demo-team-001",
+        "name": "Phantom Tactics",
+        "region": "NA",
+        "logo": null
+    },
+    "matches": [
+        {
+            "id": "match-001",
+            "date": "2026-01-20",
+            "teamId": "demo-team-001",
+            "opponentId": "opp-001",
+            "opponentName": "Viper Squad",
+            "map": "Ascent",
+            "score": {
+                "team": 13,
+                "opponent": 10
+            },
+            "won": true,
+            "rounds": [
+                {
+                    "roundNumber": 1,
+                    "winner": "attack",
+                    "site": "A",
+                    "roundType": "pistol"
+                },
+                {
+                    "roundNumber": 2,
+                    "winner": "attack",
+                    "site": "A",
+                    "roundType": "full"
+                },
+                {
+                    "roundNumber": 3,
+                    "winner": "defense",
+                    "site": "B",
+                    "roundType": "full"
+                }
+            ]
+        },
+        {
+            "id": "match-002",
+            "date": "2026-01-19",
+            "teamId": "demo-team-001",
+            "opponentId": "opp-002",
+            "opponentName": "Shadow Strikers",
+            "map": "Bind",
+            "score": {
+                "team": 11,
+                "opponent": 13
+            },
+            "won": false,
+            "rounds": [
+                {
+                    "roundNumber": 1,
+                    "winner": "defense",
+                    "site": "A",
+                    "roundType": "pistol"
+                },
+                {
+                    "roundNumber": 2,
+                    "winner": "attack",
+                    "site": "B",
+                    "roundType": "eco"
+                },
+                {
+                    "roundNumber": 3,
+                    "winner": "defense",
+                    "site": "A",
+                    "roundType": "force"
+                }
+            ]
+        },
+        {
+            "id": "match-003",
+            "date": "2026-01-18",
+            "teamId": "demo-team-001",
+            "opponentId": "opp-003",
+            "opponentName": "Nova Legends",
+            "map": "Haven",
+            "score": {
+                "team": 13,
+                "opponent": 7
+            },
+            "won": true,
+            "rounds": [
+                {
+                    "roundNumber": 1,
+                    "winner": "attack",
+                    "site": "C",
+                    "roundType": "pistol"
+                },
+                {
+                    "roundNumber": 2,
+                    "winner": "attack",
+                    "site": "A",
+                    "roundType": "full"
+                },
+                {
+                    "roundNumber": 3,
+                    "winner": "attack",
+                    "site": "C",
+                    "roundType": "full"
+                }
+            ]
+        },
+        {
+            "id": "match-004",
+            "date": "2026-01-17",
+            "teamId": "demo-team-001",
+            "opponentId": "opp-004",
+            "opponentName": "Thunder Ravens",
+            "map": "Ascent",
+            "score": {
+                "team": 13,
+                "opponent": 11
+            },
+            "won": true,
+            "rounds": [
+                {
+                    "roundNumber": 1,
+                    "winner": "attack",
+                    "site": "A",
+                    "roundType": "pistol"
+                },
+                {
+                    "roundNumber": 2,
+                    "winner": "defense",
+                    "site": "B",
+                    "roundType": "eco"
+                },
+                {
+                    "roundNumber": 3,
+                    "winner": "attack",
+                    "site": "A",
+                    "roundType": "full"
+                }
+            ]
+        },
+        {
+            "id": "match-005",
+            "date": "2026-01-16",
+            "teamId": "demo-team-001",
+            "opponentId": "opp-005",
+            "opponentName": "Eclipse Gaming",
+            "map": "Bind",
+            "score": {
+                "team": 10,
+                "opponent": 13
+            },
+            "won": false,
+            "rounds": [
+                {
+                    "roundNumber": 1,
+                    "winner": "defense",
+                    "site": "B",
+                    "roundType": "pistol"
+                },
+                {
+                    "roundNumber": 2,
+                    "winner": "attack",
+                    "site": "A",
+                    "roundType": "force"
+                },
+                {
+                    "roundNumber": 3,
+                    "winner": "defense",
+                    "site": "B",
+                    "roundType": "full"
+                }
+            ]
+        },
+        {
+            "id": "match-006",
+            "date": "2026-01-15",
+            "teamId": "demo-team-001",
+            "opponentId": "opp-006",
+            "opponentName": "Crimson Blade",
+            "map": "Haven",
+            "score": {
+                "team": 13,
+                "opponent": 6
+            },
+            "won": true,
+            "rounds": [
+                {
+                    "roundNumber": 1,
+                    "winner": "attack",
+                    "site": "A",
+                    "roundType": "pistol"
+                },
+                {
+                    "roundNumber": 2,
+                    "winner": "attack",
+                    "site": "C",
+                    "roundType": "full"
+                },
+                {
+                    "roundNumber": 3,
+                    "winner": "attack",
+                    "site": "A",
+                    "roundType": "full"
+                }
+            ]
+        },
+        {
+            "id": "match-007",
+            "date": "2026-01-14",
+            "teamId": "demo-team-001",
+            "opponentId": "opp-007",
+            "opponentName": "Titan Force",
+            "map": "Ascent",
+            "score": {
+                "team": 13,
+                "opponent": 9
+            },
+            "won": true,
+            "rounds": [
+                {
+                    "roundNumber": 1,
+                    "winner": "attack",
+                    "site": "B",
+                    "roundType": "pistol"
+                },
+                {
+                    "roundNumber": 2,
+                    "winner": "attack",
+                    "site": "B",
+                    "roundType": "full"
+                },
+                {
+                    "roundNumber": 3,
+                    "winner": "defense",
+                    "site": "A",
+                    "roundType": "eco"
+                }
+            ]
+        },
+        {
+            "id": "match-008",
+            "date": "2026-01-13",
+            "teamId": "demo-team-001",
+            "opponentId": "opp-008",
+            "opponentName": "Steel Phoenix",
+            "map": "Bind",
+            "score": {
+                "team": 13,
+                "opponent": 10
+            },
+            "won": true,
+            "rounds": [
+                {
+                    "roundNumber": 1,
+                    "winner": "defense",
+                    "site": "A",
+                    "roundType": "pistol"
+                },
+                {
+                    "roundNumber": 2,
+                    "winner": "defense",
+                    "site": "B",
+                    "roundType": "full"
+                },
+                {
+                    "roundNumber": 3,
+                    "winner": "attack",
+                    "site": "A",
+                    "roundType": "full"
+                }
+            ]
+        },
+        {
+            "id": "match-009",
+            "date": "2026-01-12",
+            "teamId": "demo-team-001",
+            "opponentId": "opp-009",
+            "opponentName": "Apex Predators",
+            "map": "Haven",
+            "score": {
+                "team": 11,
+                "opponent": 13
+            },
+            "won": false,
+            "rounds": [
+                {
+                    "roundNumber": 1,
+                    "winner": "defense",
+                    "site": "C",
+                    "roundType": "pistol"
+                },
+                {
+                    "roundNumber": 2,
+                    "winner": "attack",
+                    "site": "A",
+                    "roundType": "force"
+                },
+                {
+                    "roundNumber": 3,
+                    "winner": "defense",
+                    "site": "B",
+                    "roundType": "full"
+                }
+            ]
+        },
+        {
+            "id": "match-010",
+            "date": "2026-01-11",
+            "teamId": "demo-team-001",
+            "opponentId": "opp-010",
+            "opponentName": "Dragon's Fury",
+            "map": "Ascent",
+            "score": {
+                "team": 13,
+                "opponent": 8
+            },
+            "won": true,
+            "rounds": [
+                {
+                    "roundNumber": 1,
+                    "winner": "attack",
+                    "site": "A",
+                    "roundType": "pistol"
+                },
+                {
+                    "roundNumber": 2,
+                    "winner": "attack",
+                    "site": "A",
+                    "roundType": "full"
+                },
+                {
+                    "roundNumber": 3,
+                    "winner": "attack",
+                    "site": "B",
+                    "roundType": "full"
+                }
+            ]
+        }
+    ],
+    "summary": {
+        "totalMatches": 10,
+        "wins": 7,
+        "losses": 3,
+        "winRate": 0.70,
+        "mapsPlayed": [
+            "Ascent",
+            "Bind",
+            "Haven"
+        ],
+        "mostPlayedMap": "Ascent"
+    }
+}

@@ -1,0 +1,12 @@
+.aider*
+node_modules
+.env*
+.DS_Store
+dist/
+build/
+.vscode/
+.venv
+venv/
+env/
+*.pyc
+__pycache__/
