@@ -2,6 +2,12 @@
 
 **Automated Scouting Report Generator for Valorant**
 
+## 🎬 Demo Video
+
+[![Watch ScoutEdge Demo](https://img.youtube.com/vi/Fm7q6Hs0kwU/maxresdefault.jpg)](https://youtu.be/Fm7q6Hs0kwU)
+
+> Click to watch the full demo
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688)](https://fastapi.tiangolo.com/)
